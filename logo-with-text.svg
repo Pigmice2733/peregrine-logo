@@ -27,10 +27,10 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="548.85935"
+     inkscape:cx="207.85935"
      inkscape:cy="442.5744"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -65,7 +65,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -77,13 +77,13 @@
     <image
        sodipodi:absref="/home/caleb/peregrine-logo/logo.png"
        xlink:href="logo.png"
-       y="26.005451"
-       x="10.435696"
-       id="image20759"
-       preserveAspectRatio="none"
-       height="142.39375"
+       image-rendering=""
        width="204.01062"
-       image-rendering="" />
+       height="142.39375"
+       preserveAspectRatio="none"
+       id="image20759"
+       x="10.435696"
+       y="26.005451" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.42672412;stroke:none;stroke-width:0.26458332"
